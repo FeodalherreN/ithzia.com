@@ -1,5 +1,5 @@
 {
-  "name": "ithzia.com",
+  "name": "ithzia",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -11,10 +11,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@types/crypto-js": "^4.2.2",
-    "crypto-js": "^4.2.0",
-    "vue": "^3.5.17",
-    "vue-router": "^4.5.1"
+    "vue": "^3.5.17"
   },
   "devDependencies": {
     "@eslint/js": "^9.29.0",
