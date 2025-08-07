@@ -1273,7 +1273,7 @@
               />
             </div>
             <div class="video-player">
-              <a class="youtube" href="https://www.youtube.com/embed/pjtsGzQjFM4">
+              <a class="youtube" href="https://www.youtube.com/embed/t7r-T4KbOjc">
                 <svg width="24" height="24" viewBox="0 0 24 24">
                   <use xlink:href="#play"></use>
                 </svg>
